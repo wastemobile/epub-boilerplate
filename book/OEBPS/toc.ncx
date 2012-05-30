@@ -10,66 +10,66 @@
     <meta content="-1" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>[BOOK'S TITLE]</text>
+    <text>[書名]</text>
   </docTitle>
   <navMap>
     <navPoint id="navpoint1" playOrder="1">
       <navLabel>
-        <text>Cover</text>
+        <text>封面</text>
       </navLabel>
       <content src="Text/cover.xhtml"/>
     </navPoint>
     <navPoint id="navpoint2" playOrder="2">
       <navLabel>
-        <text>Front Matter</text>
+        <text>扉頁</text>
       </navLabel>
       <content src="Text/frontmatter.xhtml"/>
     </navPoint>
     <navPoint id="navpoint3" playOrder="3">
       <navLabel>
-        <text>Dedication</text>
+        <text>題獻</text>
       </navLabel>
       <content src="Text/dedication.xhtml"/>
     </navPoint>
     <navPoint id="navpoint4" playOrder="4">
       <navLabel>
-        <text>Foreword</text>
+        <text>序</text>
       </navLabel>
       <content src="Text/foreword.xhtml"/>
     </navPoint>
     <navPoint id="navpoint5" playOrder="5">
       <navLabel>
-        <text>Introduction</text>
+        <text>書介</text>
       </navLabel>
       <content src="Text/introduction.xhtml"/>
     </navPoint>
     <navPoint id="navpoint6" playOrder="6">
       <navLabel>
-        <text>Chapter 1</text>
+        <text>第一章</text>
       </navLabel>
       <content src="Text/chapter01.xhtml"/>
     </navPoint>
     <navPoint id="navpoint7" playOrder="7">
       <navLabel>
-        <text>Chapter 2</text>
+        <text>第二章</text>
       </navLabel>
       <content src="Text/chapter02.xhtml"/>
     </navPoint>
     <navPoint id="navpoint8" playOrder="8">
       <navLabel>
-        <text>Chapter 3</text>
+        <text>第三章</text>
       </navLabel>
       <content src="Text/chapter03.xhtml"/>
     </navPoint>
     <navPoint id="navpoint9" playOrder="9">
       <navLabel>
-        <text>End notes</text>
+        <text>注釋</text>
       </navLabel>
       <content src="Text/endnotes.xhtml"/>
     </navPoint>
     <navPoint id="navpoint10" playOrder="10">
       <navLabel>
-        <text>Acknowledgements</text>
+        <text>致謝</text>
       </navLabel>
       <content src="Text/acknowledgements.xhtml"/>
     </navPoint>

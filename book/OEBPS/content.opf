@@ -4,19 +4,19 @@
 
     <!-- ISBN -->
     <dc:identifier id="bookid" opf:scheme="ISBN">urn:isbn:[ISBN]</dc:identifier>
-    <dc:title>Title</dc:title>
+    <dc:title>書名</dc:title>
     <dc:rights>Copyright © [YEAR] [COPYRIGHT HOLDER]. All rights reserved.</dc:rights>
 
     <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
-    <dc:subject>[LIST / OF / SUBJECTS]</dc:subject>
+    <dc:subject>[書籍分類]</dc:subject>
 
-    <dc:creator opf:file-as="[LASTNAME, NAME]" opf:role="aut">[NAME LASTNAME]</dc:creator>
+    <dc:creator opf:file-as="[LASTNAME, NAME]" opf:role="aut">[作者]</dc:creator>
 
-    <dc:source>[SOURCE URL]</dc:source>
+    <dc:source>[來源網址]</dc:source>
 
     <!-- List of contributors
 
-         See: MARC Code List for Relators: http://www.loc.gov/marc/relators/relaterm.html
+         參考： MARC 中關於敘述者的各項定義 http://www.loc.gov/marc/relators/relaterm.html
 
          Examples: 
 
@@ -43,7 +43,7 @@
     <dc:date opf:event="publication">2012-01-01</dc:date>
 
     <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
-    <dc:language>en</dc:language>
+    <dc:language>zh</dc:language>
 
     <meta name="cover" content="[COVER_NAME].jpg" />
 
